@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Markdown on Erik</title>
+        <link>https://example.com/tags/markdown/</link>
+        <description>Recent content in Markdown on Erik</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <copyright>Erik</copyright>
+        <lastBuildDate>Fri, 15 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/markdown/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>关于我</title>
+        <link>https://example.com/p/%E5%85%B3%E4%BA%8E%E6%88%91/</link>
+        <pubDate>Fri, 15 Nov 2024 00:00:00 +0000</pubDate>
+        
+        <guid>https://example.com/p/%E5%85%B3%E4%BA%8E%E6%88%91/</guid>
+        <description>&lt;img src="https://example.com/p/%E5%85%B3%E4%BA%8E%E6%88%91/AboutMe.png" alt="Featured image of post 关于我" /&gt;&lt;h2 id=&#34;网站&#34;&gt;网站
+&lt;/h2&gt;&lt;p&gt;  以前就想弄一个网站，要问其原因，那就是没有，哈哈。
+&lt;br&gt;
+  这个网站主要写一些文章和记录一些有趣的片段。如果有些技术文章帮助到您，那是我的荣幸。如果里面有些东西侵占了您的权益（因为我会记录一些有意思的东西，可能不小心损害了原作者的权益），请及时跟我联系，我会立即删除，但请您放心一点，我不会进行商用。
+&lt;br&gt;
+  因为这个博客也是刚开始创建，博主也在熟悉这个网站中，后续会更新一些新功能。敬请期待！！！&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>

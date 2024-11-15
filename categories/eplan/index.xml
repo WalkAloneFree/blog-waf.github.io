@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Eplan on Erik</title>
+        <link>https://example.com/categories/eplan/</link>
+        <description>Recent content in Eplan on Erik</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <copyright>Erik</copyright>
+        <lastBuildDate>Thu, 14 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/categories/eplan/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>安装Eplan</title>
+        <link>https://example.com/p/installation-eplan/</link>
+        <pubDate>Thu, 14 Nov 2024 00:00:00 +0000</pubDate>
+        
+        <guid>https://example.com/p/installation-eplan/</guid>
+        <description>&lt;img src="https://example.com/p/installation-eplan/Epaln.png" alt="Featured image of post 安装Eplan" /&gt;&lt;h2 id=&#34;什么是eplan&#34;&gt;什么是Eplan
+&lt;/h2&gt;&lt;p&gt;  EPLAN是一款专业的电气设计和绘图软件，适合绘制电气原理图，具有强大的自动化功能和丰富的部件库。
+它支持多种电气标准和符号库，可生成各种报表，提高设计效率和准确性。
+此外，EPLAN有利于提高项目设计的严谨性，更有利于电气专业技术的传承。&lt;/p&gt;
+&lt;h2 id=&#34;安装准备工作&#34;&gt;安装准备工作
+&lt;/h2&gt;&lt;p&gt;以下都是以Windows11系统为标准的过程&lt;br&gt;
+&lt;font color=&#34;blue&#34;&gt;&lt;strong&gt;关闭杀毒软件&lt;/strong&gt;&lt;/font&gt;&lt;br&gt;
+打开电脑右下角【显示隐藏的图标】，找到里面的杀毒软件，全部退出
+&lt;br&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;打开电脑【设置】&lt;/li&gt;
+&lt;li&gt;选择【隐私和安全性】-【Windows 安全中心】-【病毒和威胁防护】&lt;/li&gt;
+&lt;li&gt;点击下方的【管理设置】，将新弹出页面中的保护选项全部关闭&lt;/li&gt;
+&lt;li&gt;点击左侧【防火墙和网络保护】，点击所有的网络名称，就可进入关闭页面，选择下面的滑动按钮进行关闭
+&lt;br&gt;
+&lt;font color=&#34;blue&#34;&gt;&lt;strong&gt;关闭防火墙&lt;/strong&gt;&lt;/font&gt;&lt;br&gt;
+&lt;br&gt;&lt;/li&gt;
+&lt;li&gt;在电脑搜索框中输入-&amp;gt;控制面板&lt;/li&gt;
+&lt;li&gt;找到右上侧【查看方式】，选择大图标，找到 Windows Defender 防火墙&lt;/li&gt;
+&lt;li&gt;点击【更改通知设置】，将【专用网络设置、公用网络设置】，都选择到【关闭Windows Defender 防火墙(不推荐)】，再点击右下角的【确定】&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;安装eplan&#34;&gt;安装Eplan
+&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;请点击&lt;a class=&#34;link&#34; href=&#34;&#34; &gt;下载&lt;/a&gt;Eplan安装包,并解压里面所有的文件夹到你指定的文件夹内&lt;br&gt;&lt;img src=&#34;https://example.com/p/installation-eplan/Eplan-%E8%A7%A3%E5%8E%8B%E7%BC%A9.jpg&#34;
+	width=&#34;1024&#34;
+	height=&#34;167&#34;
+	srcset=&#34;https://example.com/p/installation-eplan/Eplan-%E8%A7%A3%E5%8E%8B%E7%BC%A9_hu3156301818509226459.jpg 480w, https://example.com/p/installation-eplan/Eplan-%E8%A7%A3%E5%8E%8B%E7%BC%A9_hu4058952791806671847.jpg 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;解压&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;613&#34;
+		data-flex-basis=&#34;1471px&#34;
+	
+&gt;&lt;/li&gt;
+&lt;li&gt;打开 Eplan2.9下的EPLAN_Electric_P8_2.9_SP1文件夹，下拉到底，找到安装程序【setup.exe】，右键选择【以管理员身份运行】&lt;br&gt;&lt;img src=&#34;https://example.com/p/installation-eplan/Eplan-install-01.jpg&#34;
+	width=&#34;692&#34;
+	height=&#34;252&#34;
+	srcset=&#34;https://example.com/p/installation-eplan/Eplan-install-01_hu12559417320832724971.jpg 480w, https://example.com/p/installation-eplan/Eplan-install-01_hu12205472547681261677.jpg 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;安装程序&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;274&#34;
+		data-flex-basis=&#34;659px&#34;
+	
+&gt;&lt;/li&gt;
+&lt;li&gt;安装界面点击【继续】&lt;br&gt;&lt;img src=&#34;https://example.com/p/installation-eplan/Eplan-install-02.png&#34;
+	width=&#34;985&#34;
+	height=&#34;696&#34;
+	srcset=&#34;https://example.com/p/installation-eplan/Eplan-install-02_hu17488811759066341989.png 480w, https://example.com/p/installation-eplan/Eplan-install-02_hu9550005670946490868.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;安装界面01&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;141&#34;
+		data-flex-basis=&#34;339px&#34;
+	
+&gt;&lt;/li&gt;
+&lt;li&gt;勾选【我接受该许可协议中的条款】，再点击【继续】&lt;br&gt;&lt;img src=&#34;https://example.com/p/installation-eplan/Eplan-install-03.jpg&#34;
+	width=&#34;1511&#34;
+	height=&#34;1133&#34;
+	srcset=&#34;https://example.com/p/installation-eplan/Eplan-install-03_hu1014595624771739394.jpg 480w, https://example.com/p/installation-eplan/Eplan-install-03_hu12045242640786992333.jpg 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;安装界面02&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;133&#34;
+		data-flex-basis=&#34;320px&#34;
+	
+&gt;&lt;/li&gt;
+&lt;li&gt;安装路径，点击【继续】（电脑名称最好使用英文，别用中文）&lt;img src=&#34;https://example.com/p/installation-eplan/Eplan-install-04.jpg&#34;
+	width=&#34;1511&#34;
+	height=&#34;1136&#34;
+	srcset=&#34;https://example.com/p/installation-eplan/Eplan-install-04_hu10221455744233226047.jpg 480w, https://example.com/p/installation-eplan/Eplan-install-04_hu9884492086035055843.jpg 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;安装界面03&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;133&#34;
+		data-flex-basis=&#34;319px&#34;
+	
+&gt;&lt;br&gt;假如默认路径的电脑磁盘内存不够或者不想安装到默认磁盘，可以手动更改安装位置（不推荐）&lt;br&gt;![安装界面-安装路径](Eplan-install-05.png#pic_center =100×100)&lt;/li&gt;
+&lt;li&gt;点击【安装】(顺便查看一下是否为中文语言)&lt;br&gt;&lt;img src=&#34;https://example.com/p/installation-eplan/Eplan-install-06.png&#34;
+	width=&#34;986&#34;
+	height=&#34;823&#34;
+	srcset=&#34;https://example.com/p/installation-eplan/Eplan-install-06_hu2208546910003633740.png 480w, https://example.com/p/installation-eplan/Eplan-install-06_hu9939706539811503521.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;安装界面&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;119&#34;
+		data-flex-basis=&#34;287px&#34;
+	
+&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;破解&#34;&gt;破解
+&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;打开【替换文件】文件夹&lt;br&gt;将文件 vcruntime140.dll 拷贝到 C:\Program Files\EPLAN\Platform\2.9.4\Bin&amp;lt;br&amp;gt;只需要选中文件，复制(Ctrl+C)，然后点击里面的文件夹图标，即可跳转到指定文件夹，黏贴到本地即可(Ctrl+V)&lt;br&gt;&lt;img src=&#34;https://example.com/p/installation-eplan/Eplan-crack-01.jpg&#34;
+	width=&#34;498&#34;
+	height=&#34;279&#34;
+	srcset=&#34;https://example.com/p/installation-eplan/Eplan-crack-01_hu4868078983677329081.jpg 480w, https://example.com/p/installation-eplan/Eplan-crack-01_hu15821128966832226188.jpg 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;vcruntime140&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;178&#34;
+		data-flex-basis=&#34;428px&#34;
+	
+&gt;&lt;/li&gt;
+&lt;li&gt;打开【秘钥生成】文件夹&lt;br&gt;生成密钥&lt;br&gt;选择EPlanKeygen.exe程序，右键选择【以管理员身份运行】&lt;br&gt;&lt;img src=&#34;https://example.com/p/installation-eplan/Eplan-crack-02.jpg&#34;
+	width=&#34;608&#34;
+	height=&#34;259&#34;
+	srcset=&#34;https://example.com/p/installation-eplan/Eplan-crack-02_hu16540534362058882463.jpg 480w, https://example.com/p/installation-eplan/Eplan-crack-02_hu6977175937106026.jpg 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;秘钥&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;234&#34;
+		data-flex-basis=&#34;563px&#34;
+	
+&gt;&lt;br&gt;点击【TPL load】选择自动弹出界面的文件 PLAN_Ultimate.tpl(确认一下是否一致)，点击【打开】&lt;img src=&#34;https://example.com/p/installation-eplan/Eplan-crack-03.png&#34;
+	width=&#34;822&#34;
+	height=&#34;531&#34;
+	srcset=&#34;https://example.com/p/installation-eplan/Eplan-crack-03_hu6291567028417863053.png 480w, https://example.com/p/installation-eplan/Eplan-crack-03_hu13264313287251616232.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;授权文件&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;154&#34;
+		data-flex-basis=&#34;371px&#34;
+	
+&gt;&lt;br&gt;点击【Create】&lt;img src=&#34;https://example.com/p/installation-eplan/Eplan-crack-04.png&#34;
+	width=&#34;897&#34;
+	height=&#34;324&#34;
+	srcset=&#34;https://example.com/p/installation-eplan/Eplan-crack-04_hu11140583702414383990.png 480w, https://example.com/p/installation-eplan/Eplan-crack-04_hu8138585224677897150.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;授权文件-创建0&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;276&#34;
+		data-flex-basis=&#34;664px&#34;
+	
+&gt;&lt;img src=&#34;https://example.com/p/installation-eplan/Eplan-crack-05.png&#34;
+	width=&#34;563&#34;
+	height=&#34;151&#34;
+	srcset=&#34;https://example.com/p/installation-eplan/Eplan-crack-05_hu12057664591280896809.png 480w, https://example.com/p/installation-eplan/Eplan-crack-05_hu8902210396496473033.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;授权文件-创建1&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;372&#34;
+		data-flex-basis=&#34;894px&#34;
+	
+&gt;，即生成授权文件 Iservrc。授权拷贝到 C:\ProgramData\EPLAN\Common 地址。会自动弹出新窗口的，点击确定就好了。完成以上操作，程序窗口缩小就可以了。&lt;/li&gt;
+&lt;li&gt;打开【秘钥生成】文件夹&lt;br&gt;选中其中的EplanCommon.lir和EplanCommon.lit文件，拷贝到上一步指定的文件夹内吗，也有跳转文件夹，点击即可。&lt;img src=&#34;https://example.com/p/installation-eplan/Eplan-crack-06.png&#34;
+	width=&#34;852&#34;
+	height=&#34;249&#34;
+	srcset=&#34;https://example.com/p/installation-eplan/Eplan-crack-06_hu11287015859543777422.png 480w, https://example.com/p/installation-eplan/Eplan-crack-06_hu2575891621260160621.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;替换0&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;342&#34;
+		data-flex-basis=&#34;821px&#34;
+	
+&gt;&lt;img src=&#34;https://example.com/p/installation-eplan/Eplan-crack-07.png&#34;
+	width=&#34;819&#34;
+	height=&#34;343&#34;
+	srcset=&#34;https://example.com/p/installation-eplan/Eplan-crack-07_hu12880276193608847679.png 480w, https://example.com/p/installation-eplan/Eplan-crack-07_hu14765319621953405914.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;替换1&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;238&#34;
+		data-flex-basis=&#34;573px&#34;
+	
+&gt;&lt;/li&gt;
+&lt;li&gt;打开 C:\Windows\System32\drivers\etc 文件夹，选中hosts文件，将其复制到电脑桌面，用记事本打开，将下面内容复制进去
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-C++&#34; data-lang=&#34;C++&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;     &lt;span class=&#34;mf&#34;&gt;0.0.0.0&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;eplan&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;prod&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;sentinelcloud&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;com&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;     &lt;span class=&#34;mf&#34;&gt;0.0.0.0&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;licensingservice&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;epulse&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;cloud&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;img src=&#34;https://example.com/p/installation-eplan/Eplan-crack-08.png&#34;
+	width=&#34;985&#34;
+	height=&#34;525&#34;
+	srcset=&#34;https://example.com/p/installation-eplan/Eplan-crack-08_hu10988804830974453056.png 480w, https://example.com/p/installation-eplan/Eplan-crack-08_hu7901347798605448169.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;hosts&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;187&#34;
+		data-flex-basis=&#34;450px&#34;
+	
+&gt;
+将修改好的文件，再放回原文件夹内，替换原有文件。&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>
